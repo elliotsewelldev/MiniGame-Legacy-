@@ -1,0 +1,9 @@
+name: MiniGames
+version: 1.0
+main: me.fantomsy.minigames.Main
+api-version: 1.8
+commands:
+  gstart:
+  gstop:
+  clear:
+  g:

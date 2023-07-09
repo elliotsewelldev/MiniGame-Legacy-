@@ -1,0 +1,17 @@
+me/fantomsy/minigames/brawlgame/BrawlManager.class
+me/fantomsy/minigames/events/WorldProtect.class
+me/fantomsy/minigames/managers/LocationsManager.class
+me/fantomsy/minigames/commands/ClearDatapoints.class
+me/fantomsy/minigames/commands/Start.class
+me/fantomsy/minigames/events/Join.class
+me/fantomsy/minigames/Main.class
+me/fantomsy/minigames/commands/Stop.class
+me/fantomsy/minigames/managers/PlayerManager.class
+me/fantomsy/minigames/events/ItemInteractions.class
+me/fantomsy/minigames/utils/Color.class
+me/fantomsy/minigames/gamehandler/GameState.class
+me/fantomsy/minigames/utils/Manager.class
+me/fantomsy/minigames/utils/Task.class
+me/fantomsy/minigames/commands/QuickGamemode.class
+me/fantomsy/minigames/managers/GameManager.class
+me/fantomsy/minigames/events/Damage.class
